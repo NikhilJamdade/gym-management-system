@@ -1,0 +1,27 @@
+body{
+	background-image:url("2.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+
+th,td{
+	padding:8px;
+	color:white;
+	font-size:40px;
+	font-weight:bold;
+	}
+select{
+	padding:5px;
+	color:orange;
+	font-size:30px;
+	font-weight:bold;
+}	
+table{
+	border:5px solid orange;
+	background-color:orange;
+}
+input{
+	border:1px solid orange;
+	color:orange;
+	font-size:20px;
+}
